@@ -8,7 +8,6 @@ readme = "README.md"
 homepage = "https://github.com/iShibi/get-rusty#readme"
 repository = "https://github.com/iShibi/get-rusty"
 license = "MIT"
-license-file = "LICENSE"
 keywords = ["tokio", "clap", "reqwest", "rust"]
 categories = ["command-line-utilities"]
 
