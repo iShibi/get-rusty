@@ -3,7 +3,14 @@ name = "get-rusty"
 version = "0.1.0"
 edition = "2021"
 authors = ["Shubham Parihar <shubhamparihar391@gmail.com>"]
-description = "A simple CLI tool to make HTTP GET requests"
+description = "🚀 A blazingly-fast™ CLI tool written in Rust to make HTTP GET requests"
+readme = "README.md"
+homepage = "https://github.com/iShibi/get-rusty#readme"
+repository = "https://github.com/iShibi/get-rusty"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["tokio", "clap", "reqwest", "rust"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

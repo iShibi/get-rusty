@@ -1,7 +1,7 @@
 use clap::Parser;
 use reqwest;
 
-/// A simple CLI tool to make HTTP GET requests
+/// A CLI tool to make HTTP GET requests
 #[derive(Parser, Debug)]
 #[clap(version, about)]
 struct Args {
